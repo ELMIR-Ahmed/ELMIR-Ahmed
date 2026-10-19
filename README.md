@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Ahmed EL MIR</h1>
+<h1 align="center">Salut, je suis Ahmed EL MIR</h1>
 
 <p align="center">
-  Software engineering student (5th year) • Full-stack developer • Looking for a PFE internship 🎓
+  Étudiant en génie informatique (5ème année) • Développeur full stack • À la recherche d'un stage PFE 🎓
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 À propos de moi
 
-- 🎓 5th-year engineering student in Computer Science at **EHEIM** (Oujda, Morocco)
-- 🚀 Full-stack developer: **React / TypeScript** on the front, **Symfony (API Platform)**, **Spring Boot** and **ASP.NET Core** on the back
-- ⚙️ Interested in **DevOps** (Docker, Ansible, GitLab CI, Jenkins, Grafana, Prometheus) and **AWS** cloud services
-- 🏫 Currently building a **modular school ERP** for Groupe Scolaire Rihab Al Marjane (React, Tailwind CSS, Symfony, PostgreSQL, Docker)
-- 🧩 Experience with **REST API design**, **MVC** and **microservices** architectures
-- 🤖 Outside of code: Machine Learning and music
-- 🌍 Languages: French, English
+- 🎓 Élève ingénieur en 5ème année de Génie Informatique à l'**EHEIM** (Oujda, Maroc)
+- 🚀 Développeur full stack : **React / TypeScript** côté front, **Symfony (API Platform)**, **Spring Boot** et **ASP.NET Core** côté back
+- ⚙️ Intéressé par le **DevOps** (Docker, Ansible, GitLab CI, Jenkins, Grafana, Prometheus) et les services cloud **AWS**
+- 🏫 Actuellement en train de développer un **ERP scolaire modulaire** pour le Groupe Scolaire Rihab Al Marjane (React, Tailwind CSS, Symfony, PostgreSQL, Docker)
+- 🧩 Expérience en **conception d'API REST**, architectures **MVC** et **microservices**
+- 🤖 En dehors du code : Machine Learning et musique
+- 🌍 Langues : français, anglais
 
-## 🛠️ Languages & Tools
+## 🛠️ Langages & Outils
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -59,13 +59,13 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-## 🚀 Featured work
+## 🚀 Réalisations
 
-- **School ERP** (Groupe Scolaire Rihab Al Marjane, 2026): modular architecture, React + Symfony (API Platform) + PostgreSQL, containerized with Docker, deployed on a VPS, tickets managed in Jira.
-- **E-commerce platform (PFA)**: microservices architecture with Scrum; I built the user moderation and seller/shop approval workflow microservice (React, Tailwind CSS, Symfony, RabbitMQ, MySQL).
-- **YULIA GROUP internship (2024)**: point-of-sale app (database, API, web front-end, desktop UI) and a full UI/UX redesign of a school management app on Figma.
+- **ERP scolaire** (Groupe Scolaire Rihab Al Marjane, 2026) : architecture modulaire, React + Symfony (API Platform) + PostgreSQL, conteneurisé avec Docker, déployé sur VPS, suivi des tickets sur Jira.
+- **Plateforme e-commerce (PFA)** : architecture microservices avec la méthode Scrum ; développement du microservice de modération des utilisateurs et du workflow d'approbation vendeurs/boutiques (React, Tailwind CSS, Symfony, RabbitMQ, MySQL).
+- **Stage YULIA GROUP (2024)** : application de point de vente (base de données, API, front-end web, design desktop) et refonte complète de l'UI/UX d'une application de gestion scolaire sur Figma.
 
-## 📫 Connect with me
+## 📫 Me contacter
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmed-el-mir-2a5b0428b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -73,4 +73,4 @@
   <a href="https://github.com/ELMIR-Ahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><i>Open to PFE internship opportunities 🚀</i></p>
+<p align="center"><i>Ouvert aux opportunités de stage PFE 🚀</i></p>
